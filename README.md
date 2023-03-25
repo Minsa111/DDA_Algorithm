@@ -1,6 +1,7 @@
 # DDA_Algorithm
 DDA_Algorithm
-Check the master branch to see the codes
+
+CHECK THE MASTER BRANCH TO SEE THE CODES
 
 The DDA algorithm are according to these rules:
 
